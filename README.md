@@ -1,1 +1,1 @@
-# labrador
+![Labrador](thumbnail.png)
